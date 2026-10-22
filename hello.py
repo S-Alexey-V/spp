@@ -1,1 +1,1 @@
-print("Hello, world! ya lublu femboev")
+print("Hello, world! ya lublu femboev ochen")
